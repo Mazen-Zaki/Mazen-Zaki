@@ -66,15 +66,6 @@
 
 <br clear="both">
 
-            - name: snakedeploy
-  # You may pin to the exact commit or the version.
-  # uses: snakemake/snakedeploy-github-action@57d75b900d7c3619ceebb25454ebfb27905c0461
-  uses: snakemake/snakedeploy-github-action@v1.0.0
-  with:
-    # Subcommand to use
-    subcommand: 
-    # Additional Snakedeploy arguments to use
-    args: # optional, default is 
-          
+<img src="https://raw.githubusercontent.com/Mazen-Zaki/Mazen-Zaki/output/snake.svg" alt="Snake animation" />
 
 ###
